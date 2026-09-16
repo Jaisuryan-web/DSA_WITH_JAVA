@@ -22,7 +22,7 @@ public class SinglePointerRev{
             System.out.println(Arrays.toString(arr));
             sc.close();
         } catch (Exception e) {
-            System.out.println("Invalid input! Only numeric integers are allowed.");
+            System.out.println("Invalid input! Only integers are allowed.");
         } 
     }
 }
